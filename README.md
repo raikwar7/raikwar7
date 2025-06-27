@@ -36,6 +36,15 @@
 > 🔹 Symptom assessment chatbot (Dialogflow + Flask)  
 > 🏆 Winner at TechVision Hackathon | Finalist in 5+ competitions
 
+#### 🩺 🧪 Allergen Detector Web App
+
+> Built a full-stack AI-powered healthcare platform with smart diagnosis, real-time doctor recommendation, and health analytics  
+>A smart web application designed to help people with food allergies and intolerances. The app uses OCR (Optical Character Recognition) to detect allergens in packaged food ingredients and features a crowdsourcing system for community-contributed dish ingredient data from different places.
+🏆 Developed during our college tech fest Excelsior, where it won 1st place and earned a cash prize for innovation and impact!
+
+> 🔹OCR-Based Allergen Detection
+> 🔹Crowdsourced Dish Ingredient Database
+
 #### 🧪 [Sentiment Analysis with NLP](https://github.com/raikwar7/Sentiment-Analysis-NLP)
 > Natural Language Processing project to classify text sentiments using TF-IDF and ML models  
 > 🔹 Preprocessing with `NLTK` and `spaCy`  
