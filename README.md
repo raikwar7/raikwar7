@@ -91,18 +91,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=raikwar7&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&cache_seconds=1800&v=1" alt="GitHub Streak" />
 </p>
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raikwar7&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=radical&hide_border=true&card_width=500&cache_seconds=1800&v=1" alt="GitHub Stats" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raikwar7&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=1800&v=1" alt="Top Languages" />
 </p>s
 
  
- ## 📊 My GitHub Metrics
-![Metrics](https://raw.githubusercontent.com/raikwar7/raikwar7/main/metrics.svg)
-
 
 
 
