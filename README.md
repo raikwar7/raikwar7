@@ -100,7 +100,9 @@
 </p>s
 
  
- 
+ ## 📊 My GitHub Metrics
+![Metrics](https://raw.githubusercontent.com/raikwar7/raikwar7/main/metrics.svg)
+
 
 
 
