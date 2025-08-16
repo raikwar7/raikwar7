@@ -99,7 +99,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raikwar7&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=1800&v=1" alt="Top Languages" />
 </p>
 
- 
+ ## 📊 My GitHub Metrics
+![Metrics](https://raw.githubusercontent.com/raikwar7/raikwar7/main/github-metrics.svg)
+
 
 
 ---
